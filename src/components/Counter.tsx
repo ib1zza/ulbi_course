@@ -1,8 +1,8 @@
 import React from 'react';
-import "./Counter.scss"
+import s from  './Counter.module.scss'
 const Counter = () => {
     return (
-        <div>
+        <div className={s.red}>
             1
         </div>
     );
