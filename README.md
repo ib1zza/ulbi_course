@@ -1,1 +1,0 @@
-# ulbi tv course repository
